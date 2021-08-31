@@ -1,2 +1,1 @@
-[![ganddoffchan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ganddoffchan)](https://github.com/ganddoffchan/github-readme-stats)
-
+![ganddoffchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganddoffchan&show_icons=true&theme=radical)
