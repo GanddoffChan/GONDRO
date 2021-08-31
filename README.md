@@ -1,6 +1,6 @@
-<a href="https://github.com/ganddoffchan/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ganddoffchan&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/ganddoffchan/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ganddoffchan&repo=convoychat" />
 </a>
